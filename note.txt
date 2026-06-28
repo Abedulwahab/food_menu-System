@@ -1,0 +1,2 @@
+http://localhost:8080/food_menu/admin_login.php
+http://localhost:8080/food_menu/admin_dashboard.php
